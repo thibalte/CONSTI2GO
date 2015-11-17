@@ -1,9 +1,10 @@
-# CONSTI2GO
-These are the source files for CONSTI2GO, the repo is not complete yet, electronic schematics to come. The original project runs the Arduino code on a Teensy 3.1 board, which has enough ROM to store the full text.
+*These are the source files for CONSTI2GO, the repo is not complete yet, electronic schematics to come. The original project runs the Arduino code on a Teensy 3.1 board, which has enough ROM to store the full text.*
 
 ![](etc/consti2go.jpg)
 
-[view on Vimeo.](https://vimeo.com/88304676)
+# CONSTI2GO
+
+Thibault Brevet, _CONSTI2GO_, 2014. [view on Vimeo.](https://vimeo.com/88304676)
 
 Hijacking the existing network of standard receipt printers, CONSTI2GO is a portable device that allows, on the press of a button, to print copies of the US Constitution.
 
