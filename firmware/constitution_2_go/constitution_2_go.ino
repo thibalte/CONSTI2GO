@@ -8,6 +8,7 @@
  * (MAX232 works with regular Arduino's on 5V, Teensy 3.1 is 3.3V)
  *
  * A simple markup language is used for formatting the text:
+ * (make sure your text itself doesn't include the markup chars)
  *
  * '*' - start inverted mode
  * '%' - stop inverted mode
