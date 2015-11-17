@@ -268,6 +268,7 @@ void c2go(){
   for (int j=0; j<230; j++){
     // for each char in text[j]
     for (int i=0; i<strlen(text[j]); i++){
+      // check if the current char is a markup char, else print the raw char
       if (text[j][i] == '#'){
         // print newline char
         Serial1.write(0x0A);
